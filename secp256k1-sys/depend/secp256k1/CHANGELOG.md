@@ -172,3 +172,5 @@ Therefore, this version number does not uniquely identify a set of source files.
 [0.3.0]: https://github.com/bitcoin-core/secp256k1/compare/v0.2.0...v0.3.0
 [0.2.0]: https://github.com/bitcoin-core/secp256k1/compare/423b6d19d373f1224fd671a982584d7e7900bc93..v0.2.0
 [0.1.0]: https://github.com/bitcoin-core/secp256k1/commit/423b6d19d373f1224fd671a982584d7e7900bc93
+
+<!-- Auto-update: 2025-10-18T11:34:27.375432 -->
